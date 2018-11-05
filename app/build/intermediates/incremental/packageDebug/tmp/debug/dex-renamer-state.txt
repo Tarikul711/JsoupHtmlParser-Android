@@ -1,0 +1,4 @@
+#Mon Nov 05 09:29:33 BDT 2018
+base.0=/Users/mithun/Desktop/Office Android/Github/htmlparser/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
